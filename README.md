@@ -33,3 +33,5 @@ Run all tests:
 ```
 npm run test
 ```
+
+https://github.com/rostykboiko/first-assignment-rostykboiko-master
