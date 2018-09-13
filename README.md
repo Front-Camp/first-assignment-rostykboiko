@@ -33,5 +33,5 @@ Run all tests:
 ```
 npm run test
 ```
-
+I logged in WebStorm and pushed to my own GitHub, I haven`t noticed that the hurry.
 https://github.com/rostykboiko/first-assignment-rostykboiko-master
